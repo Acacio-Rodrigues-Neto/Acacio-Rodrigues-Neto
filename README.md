@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Acacio Rodrigues Neto
-- 🔭 Hoje trabalho na área da Educação com atentimento a Industria
+- 🔭 Hoje trabalho na área da Educação com atendimento a Industria
 - 🌱 Estudante: Segurança da Informação com foco em Pentester e Bug Bounty
 - 😄 Pronouns: ele/dele
 <div align="center">
